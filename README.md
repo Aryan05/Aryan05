@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - Self Driving Car's
 
 ## Few things about me...
-- My dream project is to make a world hypothesis showing the propability of life-forms in the Entire Universe
-- I also love astrophysics and im very much interested in the space exploration and would love to know what happened before and after BIG BANG 
-- I love AI 
+- My dream project would be to make a Universe hypothesis showing the propability of life-forms in the Entire Universe
+- I also love astrophysics and im very much interested in the space exploration and would love to know what happened before the BIG BANG 
+- I love AI a alot  
 
 ### Connect with me:
 
