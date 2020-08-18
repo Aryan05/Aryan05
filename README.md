@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Aryan - aka [Aryan05]👋
+### Hi there, I'm Aryan - aka [Aryan05]👋
 
 
 ## I'm a 3rd year undergraduate student at MNNIT Allahabad.
