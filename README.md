@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 - GAN's
 - Self Driving Car's
 
-## Few things about me...
-- My dream project would be to make a Universe hypothesis showing the propability of life-forms in the Entire Universe
-- I also love astrophysics and im very much interested in the space exploration and would love to know what happened before the BIG BANG 
-- I love AI a alot  
-
 ### Connect with me:
 
 [<img align="left" alt="aryankarn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
