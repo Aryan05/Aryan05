@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### ここへようこそ
 ### Hi there, I'm Aryan - aka [Aryan05]👋
+- ⚡ Fun fact: I've challanged my self for 15 days 15 projects
 
 
 ## I'm a 3rd year undergraduate student at MNNIT Allahabad.
