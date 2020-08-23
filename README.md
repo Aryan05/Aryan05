@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ### Areas of Interest
 - Reinforcement Learning
 - GAN's
-- Self Driving Car's
+- Self Driving Car's &
+- Augmented Reality
 
 ### Connect with me:
 
