@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - Reinforcement Learning
 - GAN's
 - Self Driving Car's &
-- Augmented Reality
 
 ### Connect with me:
 [<img align="left" alt="aryan05.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
