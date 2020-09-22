@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### Areas of Interest
 - Reinforcement Learning
-- GAN's
-- Self Driving Car's &
+- GAN's & EEG
+- Self Driving Car's & Autonomous Vehicles
 
 ### Connect with me:
 [<img align="left" alt="aryan05.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
