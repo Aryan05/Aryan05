@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Aryan - aka [Aryan05][website]👋
 ### Check my stats on - [Sourcerer][link] 
 - ⚡ Fun fact: I've challanged my self for 15 days 15 projects
--<a href="https://sourcerer.io/aryan05"><img src="https://img.shields.io/badge/Python-135%20commits-orange.svg" alt=""></a>
+- <a href="https://sourcerer.io/aryan05"><img src="https://img.shields.io/badge/Python-135%20commits-orange.svg" alt=""></a>
 
 
 ## I'm a 3rd year undergraduate student at MNNIT Allahabad.
