@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I'm also the founder & maintainer of VisionBrain
 
 ### Areas of Interest
 - Reinforcement Learning
