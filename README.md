@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 ## I'm a 3rd year undergraduate student at MNNIT Allahabad.
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently writing a research paper on "Neurological Survey of Reinforcement Learning" 
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🔭 I'm also the founder & maintainer of VisionBrain
 
 ### Areas of Interest
