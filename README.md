@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - <a href="https://sourcerer.io/aryan05"><img src="https://img.shields.io/badge/Python-135%20commits-orange.svg" alt=""></a>
 
 
-## I'm a 3rd year undergraduate student at MNNIT Allahabad.
+## I'm a Final year undergraduate student at MNNIT Allahabad.
 - 🌱 I’m currently writing a research paper on "Neurological Survey of Reinforcement Learning" 
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
