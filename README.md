@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a Software Engineer at Byjus
-- 🌱 I’m currently learning ...
+- 🔭 I’m the Co-Fofounder of VisionBrain 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,17 +13,10 @@ Here are some ideas to get you started:
 -->
 ### ここへようこそ
 ### Hi there, I'm Aryan - aka [Aryan05][website]👋
-### Check my Organization - [VisionBrain](https://visionbrain.godaddysites.com/)
+### Check my Organization - [VisionBrain](https://visionbrain.io/)
 ![Visitor Count](https://profile-counter.glitch.me/Aryan05/count.svg)
 - <a href="https://sourcerer.io/aryan05"><img src="https://img.shields.io/badge/Python-135%20commits-orange.svg" alt=""></a>
 
-
-## I'm a Software Engineer working for Byju's
-- 👯 I will be working with Software Reliability, Security & Cloud Engineering Team.
-- 🌱 I’m currently writing a research paper on "Neurological Survey of Reinforcement Learning" 
-- 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🔭 I'm also the founder & maintainer of VisionBrain
 
 ### Areas of Interest
 - Reinforcement Learning
